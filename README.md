@@ -9,7 +9,7 @@ Software Engineer with 4+ years of experience building scalable backend systems 
 - 📫 roman.p.gofman@gmail.com
 
 #### A few projects from here
-- **[TransactionsAPI](https://github.com/Romatomato1/TransactionsAPI)** — API for getting and updating transactions
+- **[order-pipeline](https://github.com/Romatomato1/order-pipeline)** — event-driven order fulfillment pipeline (Kafka, idempotent consumers, DLQ retry, Prometheus/Grafana)
 - **[BudgetPlanner](https://github.com/Romatomato1/BudgetPlanner)** — full-stack budget planning app (Spring Boot + React)
 - **[FindAThread](https://github.com/Romatomato1/FindAThread)** — capstone virtual wardrobe/outfit planner (Flask, MySQL, Google Vision API)
 - **[BlastGeneNucleotide](https://github.com/Romatomato1/BlastGeneNucleotide)** — DNA sequence comparison and visualization
